@@ -1,4 +1,4 @@
-# SONY CAMERA REMOTE API - Qt5 WIFI driver #
+# SONY CAMERA REMOTE API - Qt5 driver #
 
 QX10 Control library.
 
